@@ -2,6 +2,18 @@
     margin: 0;
     padding: 0;
  }
+ :root {
+   --cor-de-fundo: #ff6904;
+}
+
+body {
+   background-color: var(--cor-de-fundo);
+}
+
+h1 {
+   background-color: white;
+}
+
  body {
     font-family: 'Poppins', sans-serif;
  }
