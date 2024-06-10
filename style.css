@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-   background-color: white;
+   background-color: rgb(0, 0, 0);
 }
 
  body {
@@ -45,7 +45,7 @@ h1 {
  
  
  .escola{
-    background-image: linear-gradient(#ff9900,#0c252b);
+    background-image: linear-gradient(#000000,#0c252b);
     color:white;
     display: flex;
     justify-content: center;
