@@ -29,6 +29,7 @@ h1 {
  
  .cabecalho-imagem{
     width: 10%;
+    border-radius: 100px;
  }
  
  
@@ -78,7 +79,6 @@ h1 {
 
  .estudante-imagem{
     width: 120px;
-    border-radius: 100px;
  }
  
  
