@@ -1,4 +1,8 @@
-  .container__botao:checked ~ .lista-menu {
+.hamb {
+  width: 50px;
+
+}
+.container__botao:checked ~ .lista-menu {
     display: block;
   }
   .cabecalho {
