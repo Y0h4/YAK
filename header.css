@@ -8,13 +8,30 @@
   .container__botao:checked ~ .container__rotulo {
     background: var(--azul-degrade);
   }
+
   .cabecalho {
-    background-color: var(--cor-de-fundo);
+    background-color: #ff6811;
+    color: white;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
+    padding: 24px 0;
     position: relative;
-  }
+ }
+ 
+ 
+ .cabecalho-imagem{
+    width: 10%;
+    border-radius: 100px;
+ }
+ 
+ 
+ .cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 16px;
+ }
+ 
   .lista-menu {
     display: none;
     position: absolute;
