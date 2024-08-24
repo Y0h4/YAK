@@ -1,6 +1,6 @@
-.hamb {
+.container_imagem {
   width: 50px;
-
+  
 }
 .container__botao:checked ~ .lista-menu {
     display: block;
